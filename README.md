@@ -70,11 +70,6 @@ The prompt system was designed with the following principles:
 
 ---
 
-## 🗂️ Repository Structure
-
-
----
-
 ## 🧪 MVP Demonstration
 
 An MVP (Minimum Viable Product) of the website was created using **Lovable** to demonstrate how the generated copy fits into a real website layout.
